@@ -1,0 +1,2 @@
+INSERT INTO finja_user(id,first_name,middle_name,last_name,user_name,email,country_code,mobile_number,created_at)
+VALUES( 'b40e3e8f-9ec4-4201-a3f8-ce4c188aa4a1','Leonardo','', 'Dicaprio','leo','leodecaprio@gmail.com','+1','4151234565',CURRENT_TIMESTAMP);
